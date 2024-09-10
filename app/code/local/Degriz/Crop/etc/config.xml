@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Degriz_Crop>
+            <version>1.0.0</version>
+        </Degriz_Crop>
+    </modules>
+    <global>
+        <helpers>
+            <degriz_crop>
+                <class>Degriz_Crop_Helper</class>
+            </degriz_crop>
+        </helpers>
+    </global>
+</config>
